@@ -1,2 +1,2 @@
 # cs50-c-programming-projects
-C programming exercises from CS50 demonstrating foundational concepts including control flow, algorithm implementation, input validation, and structured problem solving in C.
+This repository contains C programming exercises completed as part of Harvard's CS50 course. Projects are added as coursework progresses and demonstrate foundational systems-level programming concepts.
