@@ -23,14 +23,14 @@ void print_row(int row, int height)
     {
         printf(" ");
     }
-    for (int j = 0; j < row; j++)
+    for (int i = 0; i < row; i++)
     {
         printf("#");
     }
     
     printf("  ");
 
-        for (int j = 0; j < row; j++)
+        for (int i = 0; i < row; i++)
     {
         printf("#");
     }

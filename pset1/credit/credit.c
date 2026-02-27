@@ -38,7 +38,6 @@ void card_verifier(long card_number)
     int check = 0;
     int first_two_digits;
     int first_digit;
-    int verified;
     int digit_count = digit_counter(card_number);
 
     for (; remaining_length > 0; remaining_length--)
